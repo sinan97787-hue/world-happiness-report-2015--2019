@@ -1,3 +1,4 @@
+<img width="1212" height="688" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/53cdccd9-e83a-4068-9875-d985db749134" />
 # 🌍 World Happiness Report Dashboard (2015 - 2019)
 
 This project analyzes the **World Happiness Report (2015–2019)** and presents key insights using an interactive Power BI dashboard.  
